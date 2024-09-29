@@ -1,0 +1,26 @@
+
+h1, h2 {
+    text-align: center;
+}
+
+
+.movie {
+   display: flex;
+    padding: 0;
+    margin-left: 30px;
+    gap: 1em;
+   
+    background-color: bisque;
+}
+
+#image {
+    text-align: center;
+}
+
+#Portfolio {
+    display: flex;
+    padding: 0;
+    margin-left: 30px;
+    gap: 1em;
+   
+}
